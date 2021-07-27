@@ -1,4 +1,6 @@
-## printf Function for C 
-this is a printf function witha header file and C code
+## printf function something 
+it displays datea to the standard output
+it can display strings charaters intergers floats and decimals
+depending on specified symbols 
 
 
